@@ -8,8 +8,8 @@ function printAge(birthyear) {
 }
 printAge(2000);
 
-function printAgeAndName(na, ag) {
-  console.log(`hello ${na},you are ${ag} years old`);
+function printAgeAndName(name, age) {
+  console.log(`hello ${name},you are ${age} years old`);
 }
 
 printAgeAndName(`nadia`, `18`);
